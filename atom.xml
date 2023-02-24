@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xingguangqaq.github.io</id>
+    <title>星光qaq</title>
+    <updated>2023-02-24T01:04:18.499Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xingguangqaq.github.io"/>
+    <link rel="self" href="https://xingguangqaq.github.io/atom.xml"/>
+    <subtitle>我测你们码</subtitle>
+    <logo>https://xingguangqaq.github.io/images/avatar.png</logo>
+    <icon>https://xingguangqaq.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 星光qaq</rights>
+    <entry>
+        <title type="html"><![CDATA[好好干，日子会越来越甜]]></title>
+        <id>https://xingguangqaq.github.io/post/hhg/</id>
+        <link href="https://xingguangqaq.github.io/post/hhg/">
+        </link>
+        <updated>2023-02-24T00:48:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[one last kiss封面图制作教程]]></title>
+        <id>https://xingguangqaq.github.io/post/olk/</id>
+        <link href="https://xingguangqaq.github.io/post/olk/">
+        </link>
+        <updated>2023-01-09T05:51:30.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只因工具箱食用说明]]></title>
+        <id>https://xingguangqaq.github.io/post/sysm/</id>
+        <link href="https://xingguangqaq.github.io/post/sysm/">
+        </link>
+        <updated>2023-01-06T11:03:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一月新番推荐]]></title>
+        <id>https://xingguangqaq.github.io/post/1fjtj/</id>
+        <link href="https://xingguangqaq.github.io/post/1fjtj/">
+        </link>
+        <updated>2023-01-06T09:29:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只因root工具箱2.0正式版已发布]]></title>
+        <id>https://xingguangqaq.github.io/post/root/</id>
+        <link href="https://xingguangqaq.github.io/post/root/">
+        </link>
+        <updated>2023-01-06T06:20:38.000Z</updated>
+    </entry>
+</feed>
