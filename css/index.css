@@ -5987,3 +5987,15 @@ blockquote.pullquote.right {
   color: #f47466;
   font-weight: bold;
 }
+.heimu {
+  background-color: var(--hty-text-color);
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  -ms-transition: 0.2s;
+  transition: 0.2s;
+}
+.heimu:hover {
+  cursor: pointer;
+  background-color: transparent;
+}
