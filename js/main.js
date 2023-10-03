@@ -825,3 +825,9 @@ document.addEventListener('DOMContentLoaded', function () {
   refreshFn()
   unRefreshFn()
 })
+
+  //你知道的太多了
+  const addheimuTitle = function(){
+    console.log(123)
+    $('.heimu').attr('title','你知道的太多了')
+  }
